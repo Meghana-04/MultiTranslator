@@ -5,6 +5,8 @@ Tools and Technologies Used:
 AWS Translate
 Amazon Polly
 IAM
+
+PYTHON: 
 Flask
 SpeechRecognition
 Threading
